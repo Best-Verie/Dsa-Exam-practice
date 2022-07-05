@@ -1,0 +1,4 @@
+2 Kigali cold 5 
+4 Muhanga flue 15 
+5 Kayonza flue 20 
+6 Kigali covid 0 
